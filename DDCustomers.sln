@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AHTEFE Counter Reload", "DDCustomers\AHTEFE Counter Reload.vbproj", "{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.CD_ROM|x86.ActiveCfg = Release|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.CD_ROM|x86.Build.0 = Release|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.Debug|x86.ActiveCfg = Debug|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.Debug|x86.Build.0 = Debug|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.DVD-5|x86.ActiveCfg = Debug|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.DVD-5|x86.Build.0 = Debug|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.Release|x86.ActiveCfg = Release|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.Release|x86.Build.0 = Release|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.SingleImage|x86.ActiveCfg = Release|x86
+		{E62EA983-AEE9-4EE1-AEE5-5FACD2DCBD4D}.SingleImage|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

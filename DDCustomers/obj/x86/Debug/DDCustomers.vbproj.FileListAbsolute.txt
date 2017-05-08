@@ -1,0 +1,109 @@
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\DDCustomers.MainForm.resources
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\DDCustomers.Resources.resources
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\DDCustomers.exe.licenses
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\bin\Debug\DDCustomers.exe
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\bin\Debug\DDCustomers.pdb
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\bin\Debug\DDCustomers.xml
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\DDCustomers.exe
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\DDCustomers.xml
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCustomers\obj\x86\Debug\DDCustomers.pdb
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DDCustomers.exe.config
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DDCustomers.exe.manifest
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DDCustomers.application
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DDCustomers.exe
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DDCustomers.pdb
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DDCustomers.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.Data.v15.1.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.DataAccess.v15.1.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraReports.v15.1.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.Data.v15.1.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.DataAccess.v15.1.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraReports.v15.1.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmAbout.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmComingSoon.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmDenom.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmDetailPulsa.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmFormat.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.Frmhistory.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmIsiPulsa.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmLogin.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmManageDenom.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmManageFormat.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmManagePrefix.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmManageProduk.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmOperator.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmManageOperator.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmPemilik.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmPenjualan.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmPesanKeluar.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmProduk.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmPrefix.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmPulsa.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmTambahPulsa.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.MainForm.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.Resources.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.PrintRibbonControllerResources.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.Struk.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.XtraReport1.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.exe.licenses
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.exe.manifest
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.application
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.exe
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.xml
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.pdb
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmRegister.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmCekTransaksi.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmKomplain.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmTambahKomplain.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmTiket.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.Frmmanageuser.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmUser.resources
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmPassOtoritas.resources
+F:\Project Andra\DDCustomers\DDCustomers\bin\Debug\MySqlBackup.dll
+F:\Project Andra\DDCustomers\DDCustomers\obj\x86\Debug\DDCustomers.FrmDatabase.resources
